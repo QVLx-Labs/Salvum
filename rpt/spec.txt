@@ -1,0 +1,36 @@
+basic functions:
+1. run_modules(String app1, String app2) -> String result1, String result2
+2. grab_token(int line, int token_number) -> String token
+3. grab_line(String some_token) -> String line
+4. write_string(String anything)
+
+Behind the scenes:
+- write_string will check if file exists and if not create it
+
+Autogen creates:
+run_modules(String app)
+
+randhexstr::report() {
+  run_modules(randhexstr);
+  write_string(String test123);
+}
+
+binseccheck::report() {
+  run_modules(binseccheck);
+  write_string(String test234);
+}
+
+custom1::report() {
+  String[] results = run_modules(binseccheck, randhexstr);
+  write_string(results["binseccheck"],results["randhexstr"]);
+}
+
+file
+------
+testing testing 1 2 3
+heres some more
+
+dump
+-----
+00testing 1testing 21 32 43 
+10heres 1some 2more
