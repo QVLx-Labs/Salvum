@@ -18,7 +18,7 @@
  *
  * main.rs -> orchestrating program for Salvum
  *
- * authors: $t@$h, r00r00, n3wmAn
+ * authors: $t@$h, r00r00, n3wm4n
  */
 
 // Imports
