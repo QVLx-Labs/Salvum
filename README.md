@@ -2,7 +2,7 @@
 Official Salvum Repository
 
 A Dedication to provide us all 100% pure safe Rust
-Courtesy of QVLx Labs - $t@$h, r00r00, n3wm4n
+courtesy of QVLx Labs - $t@$h, r00r00, n3wm4n
 
 It was our pleasure
 Documentation: https://www.qvlx.com/downloads
