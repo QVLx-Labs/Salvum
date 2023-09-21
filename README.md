@@ -1,7 +1,7 @@
 # Salvum Security Engine
 Official Salvum Repository
 
-It was our pleasure. -$t@$h -r00r00 -n3wm4n
+-$t@$h -r00r00 -n3wm4n
 
 Documentation: https://www.qvlx.com/downloads
 
