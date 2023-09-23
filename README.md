@@ -12,6 +12,7 @@ Integration with QNX Momentics, Wind River Workbench, Lynx Luminosity and other 
 ![image](https://github.com/QVLx-Labs/Salvum/assets/4257899/08bc74d0-5664-4601-9de3-fae42a1b6088)
 
 The full range of capabilities:
+"
 Applets
     |
     +-----------------------------------|-> hw
@@ -367,3 +368,4 @@ Red Apps
                                         |-> NTP_parse
                                         |-> SNMP_parse
                                         |-> jindex
+"
