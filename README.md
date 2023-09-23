@@ -102,13 +102,13 @@ Applets
 
 Blue Apps
     |
-    +-> Basic Tools --------------------|-> CPRNG -------------|~> Chacha
+    +-> Basic Tools --------------------|-> CPRNG -------------|-> Chacha
     |                                   |                      |-> Hc128Rng
     |                                   |                      |-> GlassPumpkin
     |                                   |                      |-> nanoid
     |                                   |                      
-    |                                   |-> PRNG --------------|~> MersenneTwister
-    |                                   |                      |~> rand_hexstr
+    |                                   |-> PRNG --------------|-> MersenneTwister
+    |                                   |                      |-> rand_hexstr
     |                                   |
     |                                   |-> RNG ---------------|-> OSRand
     |                                   |
