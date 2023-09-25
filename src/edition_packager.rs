@@ -12,7 +12,7 @@
  * users don't have access to this. We could do this automatically, but it
  * would take some work to setup
  *
- * authors: $t@$h, r00r00
+ * authors: r00r00, $t@$h
  */
 
 // Imports
