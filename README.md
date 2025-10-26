@@ -3,7 +3,7 @@ Official Salvum Repository
 
 -$t@$h -r00r00 -n3wm4n -m0nZSt3r -Matzr3lla -k!r!to
 
-Documentation: https://www.qvlx.com/salvum-1
+Documentation: [Documentation](https://www.qvlx.com/salvum-1#section-62135462eb951-title)
 
 ![image](https://github.com/QVLx-Labs/Salvum/assets/4257899/86d79068-e91c-4820-9e3a-5c2a592efddd)
 
